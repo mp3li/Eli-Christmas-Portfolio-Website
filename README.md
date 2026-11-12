@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  A living portfolio for my software development, project consulting, research, community work, and writing. It brings detailed project stories together with an interactive Tacoma map and viewing controls that let visitors make the site more comfortable to read.
+  A living portfolio for my software development, project consulting, research, community work, and writing. It brings detailed project stories together with an interactive Tacoma map and accessibility controls, including an optional font meant for those with dyslexia.
 </p>
 
 <p align="center">
