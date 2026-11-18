@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://elichristmas.dev/"><img alt="Website: Live" src="https://img.shields.io/badge/Site-Live-303030?style=flat-square" height="17" /></a>&nbsp;<img alt="Frontend: HTML, CSS, and JavaScript" src="https://img.shields.io/badge/HTML-CSS%2FJS-303030?style=flat-square" height="17" />&nbsp;<img alt="Hosting: Cloudflare Workers" src="https://img.shields.io/badge/Cloudflare-Workers-303030?style=flat-square" height="17" />&nbsp;<img alt="Design: Responsive and customizable" src="https://img.shields.io/badge/Responsive-Custom-303030?style=flat-square" height="17" />&nbsp;<img alt="Tacoma: 14 Realtime Stats" src="https://img.shields.io/badge/Tacoma-14_Realtime_Stats-303030?style=flat-square" height="17" />&nbsp;<img alt="Data APIs: 3" src="https://img.shields.io/badge/APIs-3-303030?style=flat-square" height="17" />&nbsp;<img alt="Data refresh: every 6 to 15 minutes" src="https://img.shields.io/badge/Refresh-6--15m-303030?style=flat-square" height="17" />&nbsp;<img alt="Public projects: 28" src="https://img.shields.io/badge/Projects-28-303030?style=flat-square" height="17" />&nbsp;<img alt="OpenDyslexic: Optional Font Included" src="https://img.shields.io/badge/OpenDyslexic-Optional_Font_Included-303030?style=flat-square" height="17" />
+  <a href="https://elichristmas.dev/"><img alt="Website: Live" src="https://img.shields.io/badge/Site-Live-303030?style=flat-square" height="17" /></a>&nbsp;<img alt="Frontend: HTML, CSS, and JavaScript" src="https://img.shields.io/badge/HTML-CSS%2FJS-303030?style=flat-square" height="17" />&nbsp;<img alt="Hosting: Cloudflare Workers" src="https://img.shields.io/badge/Cloudflare-Workers-303030?style=flat-square" height="17" />&nbsp;<img alt="Design: Responsive and customizable" src="https://img.shields.io/badge/Responsive-Custom-303030?style=flat-square" height="17" />&nbsp;<img alt="Tacoma: 14 Realtime Stats" src="https://img.shields.io/badge/Tacoma-14_Realtime_Stats-303030?style=flat-square" height="17" />&nbsp;<img alt="Data APIs: 3" src="https://img.shields.io/badge/APIs-3-303030?style=flat-square" height="17" />&nbsp;<img alt="Data refresh: every 6 to 15 minutes" src="https://img.shields.io/badge/Refresh-6--15m-303030?style=flat-square" height="17" />&nbsp;<img alt="Public projects: 29" src="https://img.shields.io/badge/Projects-29-303030?style=flat-square" height="17" />&nbsp;<img alt="OpenDyslexic: Optional Font Included" src="https://img.shields.io/badge/OpenDyslexic-Optional_Font_Included-303030?style=flat-square" height="17" />
 </p>
 
 <p align="center">
@@ -65,7 +65,9 @@ The homepage groups projects by the kind of work they represent. Featured entrie
 
 Recent Featured Work includes [Opportunity Alerts](https://elichristmas.dev/project.html?project=29), a hosted webpage monitor that has helped me find and follow up on volunteer opportunities through its email updates.
 
-[myY1themestudio: Website & Desktop App Versions](https://elichristmas.dev/project.html?project=8) now presents the complete browser studio first, followed by the original offline desktop app. The case study includes website walkthroughs and screenshots, the Y1 device context, and the themes produced through this work. The [online studio](https://myy1themestudio.mp3li.online/) is available to free and paid Patreon members.
+[myY1themestudio: Website & Desktop App Versions](https://elichristmas.dev/project.html?project=8) now presents the complete browser studio first, followed by the original offline desktop app. The case study includes website walkthroughs and screenshots, the Y1 device context, and the themes produced through this work. The online studio is available to free and paid Patreon members.
+
+The [portfolio's own case study](https://elichristmas.dev/project.html?project=4) explains why I built the site, how the Tacoma map labels and local conditions work, and the keyboard and viewing controls available to visitors. Its animated media shows the homepage in dark, light, monospaced, and OpenDyslexic appearances; the open Accessibility Wizard; the mobile layout; and the Community Experience and Writing pages.
 
 The dark-mode walkthrough follows the homepage from the introduction through Featured Work, the grouped project collections, community reach, and the Skills section at the bottom. It shows how the full catalog sits over the Tacoma map before opening any individual project.
 
@@ -130,7 +132,7 @@ The **Accessibility Wizard** brings the viewing options into one panel. Visitors
 These controls are part of the website's design, not a claim that one preset works for every visitor. I wanted people to be able to adapt the presentation to their own reading needs.
 
 <p align="center">
-  <img src="docs/readme-assets/gifs/appearance-settings.gif" alt="Accessibility Wizard opening and switching between dark and light themes" width="920" />
+  <img src="docs/readme-assets/gifs/appearance-settings.gif" alt="Open Accessibility Wizard shown in dark mode and then light mode, with theme, text, font, and map controls" width="920" />
   <br />
   <sub>The Accessibility Wizard and its light and dark themes.</sub>
 </p>
@@ -173,7 +175,7 @@ This repository documents the finished experience; it does not contain the websi
 
 Map data is credited to [OpenStreetMap contributors](https://www.openstreetmap.org/copyright). The status bar links to [Open-Meteo](https://open-meteo.com/), [Copernicus Atmosphere Monitoring Service](https://ads.atmosphere.copernicus.eu/), [NOAA Tides & Currents](https://tidesandcurrents.noaa.gov/stationhome.html?id=9446484), and the [National Weather Service](https://www.weather.gov/documentation/services-web-alerts). Project pages may also show work and media created for clients or collaborators; those materials remain associated with their respective projects.
 
-The README screenshots and GIFs were captured from the running local portfolio on November 10, 2026. They show real pages and controls, while live weather and project content may change. This repository does not currently include a project-wide license file.
+The README screenshots and GIFs were captured from the running local portfolio on November 10 and November 18, 2026. They show real pages and controls, while live weather and project content may change. This repository does not currently include a project-wide license file.
 
 ## Links from the Portfolio
 
