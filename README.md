@@ -65,6 +65,8 @@ The homepage groups projects by the kind of work they represent. Featured entrie
 
 Recent Featured Work includes [Opportunity Alerts](https://elichristmas.dev/project.html?project=29), a hosted webpage monitor that has helped me find and follow up on volunteer opportunities through its email updates.
 
+[myY1themestudio: Website & Desktop App Versions](https://elichristmas.dev/project.html?project=8) now presents the complete browser studio first, followed by the original offline desktop app. The case study includes website walkthroughs and screenshots, the Y1 device context, and the themes produced through this work. The [online studio](https://myy1themestudio.mp3li.online/) is available to free and paid Patreon members.
+
 The dark-mode walkthrough follows the homepage from the introduction through Featured Work, the grouped project collections, community reach, and the Skills section at the bottom. It shows how the full catalog sits over the Tacoma map before opening any individual project.
 
 <p align="center">
