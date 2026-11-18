@@ -3,11 +3,11 @@
 </h1>
 
 <p align="center">
-  A living portfolio for my software development, project consulting, research, community work, and writing. It brings detailed project stories together with an interactive Tacoma map and accessibility controls, including an optional font meant for those with dyslexia.
+  A living portfolio for my software development, project consulting, research, community work, and writing. It brings detailed project stories together with an interactive Tacoma map and viewing controls that let visitors make the site more comfortable to read.
 </p>
 
 <p align="center">
-  <a href="https://elichristmas.dev/"><img alt="Website: Live" src="https://img.shields.io/badge/Site-Live-303030?style=flat-square" height="17" /></a>&nbsp;<img alt="Frontend: HTML, CSS, and JavaScript" src="https://img.shields.io/badge/HTML-CSS%2FJS-303030?style=flat-square" height="17" />&nbsp;<img alt="Hosting: Cloudflare Workers" src="https://img.shields.io/badge/Cloudflare-Workers-303030?style=flat-square" height="17" />&nbsp;<img alt="Design: Responsive and customizable" src="https://img.shields.io/badge/Responsive-Custom-303030?style=flat-square" height="17" />&nbsp;<img alt="Tacoma: 14 Realtime Stats" src="https://img.shields.io/badge/Tacoma-14_Realtime_Stats-303030?style=flat-square" height="17" />&nbsp;<img alt="Data APIs: 3" src="https://img.shields.io/badge/APIs-3-303030?style=flat-square" height="17" />&nbsp;<img alt="Data refresh: every 6 to 15 minutes" src="https://img.shields.io/badge/Refresh-6--15m-303030?style=flat-square" height="17" />&nbsp;<img alt="Public projects: 27" src="https://img.shields.io/badge/Projects-27-303030?style=flat-square" height="17" />&nbsp;<img alt="OpenDyslexic: Optional Font Included" src="https://img.shields.io/badge/OpenDyslexic-Optional_Font_Included-303030?style=flat-square" height="17" />
+  <a href="https://elichristmas.dev/"><img alt="Website: Live" src="https://img.shields.io/badge/Site-Live-303030?style=flat-square" height="17" /></a>&nbsp;<img alt="Frontend: HTML, CSS, and JavaScript" src="https://img.shields.io/badge/HTML-CSS%2FJS-303030?style=flat-square" height="17" />&nbsp;<img alt="Hosting: Cloudflare Workers" src="https://img.shields.io/badge/Cloudflare-Workers-303030?style=flat-square" height="17" />&nbsp;<img alt="Design: Responsive and customizable" src="https://img.shields.io/badge/Responsive-Custom-303030?style=flat-square" height="17" />&nbsp;<img alt="Tacoma: 14 Realtime Stats" src="https://img.shields.io/badge/Tacoma-14_Realtime_Stats-303030?style=flat-square" height="17" />&nbsp;<img alt="Data APIs: 3" src="https://img.shields.io/badge/APIs-3-303030?style=flat-square" height="17" />&nbsp;<img alt="Data refresh: every 6 to 15 minutes" src="https://img.shields.io/badge/Refresh-6--15m-303030?style=flat-square" height="17" />&nbsp;<img alt="Public projects: 28" src="https://img.shields.io/badge/Projects-28-303030?style=flat-square" height="17" />&nbsp;<img alt="OpenDyslexic: Optional Font Included" src="https://img.shields.io/badge/OpenDyslexic-Optional_Font_Included-303030?style=flat-square" height="17" />
 </p>
 
 <p align="center">
@@ -63,6 +63,8 @@ The live website is [elichristmas.dev](https://elichristmas.dev/).
 
 The homepage groups projects by the kind of work they represent. Featured entries appear first; the collections below provide another route into related work. A table of contents can jump directly to a project or section. On narrower screens, the site uses a compact menu and a responsive content layout.
 
+Recent Featured Work includes [Opportunity Alerts](https://elichristmas.dev/project.html?project=29), a hosted webpage monitor that has helped me find and follow up on volunteer opportunities through its email updates.
+
 The dark-mode walkthrough follows the homepage from the introduction through Featured Work, the grouped project collections, community reach, and the Skills section at the bottom. It shows how the full catalog sits over the Tacoma map before opening any individual project.
 
 <p align="center">
@@ -71,7 +73,7 @@ The dark-mode walkthrough follows the homepage from the introduction through Fea
   <sub>A full scroll through the homepage in dark mode.</sub>
 </p>
 
-Project pages combine the story with media relevant to each section. Images and videos have descriptive captions, and the media viewer provides a larger view with navigation through the available material. When a project has a public destination, a **Visit Live Site** link appears near its introduction.
+Project pages combine the story with media relevant to each section. Images and videos have descriptive captions, and the media viewer provides a larger view with navigation through the available material. A **Visit Live Site** button appears when there is a public site; a **View Public Project Documentation** button links to a matching public GitHub repository when one exists.
 
 <p align="center">
   <img src="docs/readme-assets/gifs/project-browsing.gif" alt="Portfolio moving from Featured Work and Pine Autoworks into its project page" width="920" />
